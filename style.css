@@ -64,7 +64,8 @@ body{
     height: 60px; 
     width: 140px; 
     color: black;
-    background-color: rgb(235, 20, 20);    
+    background-color: rgb(235, 20, 20);
+    border-radius: 0.3em;
 }
 
 #equalto:hover{
