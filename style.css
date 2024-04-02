@@ -36,6 +36,7 @@ body{
     align-items: center;
     color: #ffffff;
     background-color: rgb(83 32 170);
+    cursor: pointer;
 }
 
 .num:hover{
